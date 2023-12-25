@@ -1,0 +1,11 @@
+export { default as ProductStatusModel } from './ProductStatusModel.model';
+export { default as UsersModel } from './users.model';
+export { default as UsersStorageModel } from './users.storage.model';
+export { default as StorageInfoModel } from './storage.info.model';
+export { default as SlidesModel } from './slides.model';
+export { default as FootersModel } from './footers.model';
+export { default as OrdersModel } from './orders.model';
+export { default as SuperAdminModel } from './superAdmin.model';
+export { default as AboutModel } from './about.model';
+export { default as ContactModel } from './contact.model';
+export { default as ProductModel } from './product.model';
